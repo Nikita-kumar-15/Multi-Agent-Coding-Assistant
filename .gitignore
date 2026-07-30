@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Database
+*.db
+
+# Logs
+*.log
+server.log
+timing_logs.txt
+
+# Zip files
+*.zip
+
+# Generated folders
+workflow/
+uploads/
+scratch/
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
