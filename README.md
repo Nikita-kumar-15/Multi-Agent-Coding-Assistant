@@ -250,10 +250,16 @@ The Streamlit interface where users submit prompts, upload files, monitor agent 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/3849ce99-c9f8-4e88-8b26-ebe25a9a0170" />
 
 
+
+
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/4bffb8f5-3c03-45d8-8cb3-9380a4d0bc91" />
 
 
+
+
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/3f5ea26d-e127-458f-ac09-1cc70c73c475" />
+
+
 
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/83ea4da4-32e5-4137-93ea-97b1bf3c690e" />
@@ -265,13 +271,22 @@ The Streamlit interface where users submit prompts, upload files, monitor agent 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/20df84b3-276f-4b00-9996-3a3cdd012aea" />
 
 
+
+
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/0e4d882e-5f95-417e-93dc-ee81171746ba" />
+
+
 
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/ae1c7680-ac10-4326-9a8b-2aaab2c194c7" />
 
 
+
+
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/af1e3fb7-bfdd-4aec-a792-c02bf080dce9" />
+
+
+
 
 ---
 
