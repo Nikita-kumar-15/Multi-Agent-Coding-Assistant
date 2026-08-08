@@ -271,13 +271,14 @@ The assistant supports continuing an existing project through follow-up instruct
 
 The following screenshots show an existing generated project being improved through follow-up instructions.
 
-<img width="1600" height="882" alt="image" src="https://github.com/user-attachments/assets/57abe63b-3259-4ed8-b0bd-080970d6f77d" />
-<img width="1600" height="875" alt="image" src="https://github.com/user-attachments/assets/f068ab00-0d4f-4949-8e70-ce8cc1a66891" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/57abe63b-3259-4ed8-b0bd-080970d6f77d" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/f068ab00-0d4f-4949-8e70-ce8cc1a66891" />
 
-###Updated Netflix page
-<img width="1468" height="742" alt="image" src="https://github.com/user-attachments/assets/b8060f94-c22a-4b1e-b90a-0a0fdfb3b768" />
-<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/088684f2-3102-497b-b454-1db50b06dae8" />
-<img width="1600" height="826" alt="image" src="https://github.com/user-attachments/assets/c4ea1151-626e-4c78-9a70-f02ed8a3185a" />
+##Updated Netflix page
+
+<img width="1600" height="826" alt="image" src="https://github.com/user-attachments/assets/e46f9da8-f86e-4a02-b803-aff9d8f67a23" />
+<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/2cc61981-fcb5-4367-ad56-804e6f37a233" />
+<img width="1468" height="742" alt="image" src="https://github.com/user-attachments/assets/6e133c30-ffbe-47d5-a1a6-874ddbe6f868" />
 
 
 ## Challenges Faced
