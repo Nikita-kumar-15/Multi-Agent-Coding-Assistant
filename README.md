@@ -263,6 +263,23 @@ The Streamlit interface where users submit prompts, upload files, monitor agent 
 
 ---
 
+## Iterative Refinement
+
+The assistant supports continuing an existing project through follow-up instructions. Instead of generating a new project from scratch, users can request changes or improvements to the existing project, allowing the agents to modify and refine the generated application while maintaining the project context.
+
+### Example
+
+The following screenshots show an existing generated project being improved through follow-up instructions.
+
+<img width="1600" height="882" alt="image" src="https://github.com/user-attachments/assets/57abe63b-3259-4ed8-b0bd-080970d6f77d" />
+<img width="1600" height="875" alt="image" src="https://github.com/user-attachments/assets/f068ab00-0d4f-4949-8e70-ce8cc1a66891" />
+
+###Updated Netflix page
+<img width="1468" height="742" alt="image" src="https://github.com/user-attachments/assets/b8060f94-c22a-4b1e-b90a-0a0fdfb3b768" />
+<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/088684f2-3102-497b-b454-1db50b06dae8" />
+<img width="1600" height="826" alt="image" src="https://github.com/user-attachments/assets/c4ea1151-626e-4c78-9a70-f02ed8a3185a" />
+
+
 ## Challenges Faced
 
 - Designing communication between multiple autonomous agents.
